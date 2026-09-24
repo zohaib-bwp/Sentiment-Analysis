@@ -1,4 +1,6 @@
 # Sentiment Project
+<img width="1755" height="672" alt="image" src="https://github.com/user-attachments/assets/57e5eaea-87aa-46d1-a47b-c592c1da1c35" />
+
 
 Quick commands and troubleshooting.
 
@@ -68,7 +70,8 @@ evaluate results, and run a small Flask API for predictions.
    ```bash
    python train_model.py
    ```
- 
+ <img width="1758" height="730" alt="image" src="https://github.com/user-attachments/assets/e4ddc342-55c9-4720-bcdf-500a4784f508" />
+
 ![CI](https://github.com/OWNER/REPO/actions/workflows/ci.yml/badge.svg)
    Trained model and TF-IDF vectorizer are saved in `models/`.
 4. Evaluate & predict using `predict.py` or run the Flask app:
